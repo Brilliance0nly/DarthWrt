@@ -27,7 +27,7 @@ _  /_/ // /_/ /_  /   / /_ _  / / //_____/_ |/ |/ / _  /   / /_
 ```    
 
         
-
+Note* After you download the repoistory you will see that both files have been zipped. If you extract the vdi file it wont work for your virtualmachine, so just rename the file to .vdi and just discard the .gz 
 
 
 ### What you'll need
